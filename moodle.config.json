@@ -1,6 +1,6 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
+    "app_id": "in.iklas.ioa.mobile",
+    "appname": "Iklas Online Academy",
     "versioncode": 4000,
     "versionname": "4.0.0-dev",
     "cache_update_frequency_usually": 420000,
@@ -64,26 +64,15 @@
         "zh-tw": "正體中文"
     },
     "wsservice": "moodle_mobile_app",
-    "demo_sites": {
-        "student": {
-            "url": "https://school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https://school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
+    "demo_sites": {},
     "zoomlevels": {
         "normal": 100,
         "low": 110,
         "high": 120
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "siteurl": "ioa.iklas.in",
+    "sitename": "Iklas",
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
@@ -97,7 +86,7 @@
     "forceLoginLogo": false,
     "ioswebviewscheme": "moodleappfs",
     "appstores": {
-        "android": "com.moodle.moodlemobile",
+        "android": "in.iklas.ioa.mobile",
         "ios": "id633359593"
     },
     "wsrequestqueuelimit": 10,
